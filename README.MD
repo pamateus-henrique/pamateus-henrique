@@ -10,8 +10,6 @@
 ✍️ &nbsp;In my free time, I like listen to music and play games.\
 ✉️ &nbsp;You can shoot me an email at mateus.henrique@acad.ufsm.br!\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
