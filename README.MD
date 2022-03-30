@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Computer Science in Federal University of Santa Maria - UFSM.\
 🌱 &nbsp;I'm learning web development and Java.\
 ✍️ &nbsp;In my free time, I like listen to music and play games.\
-✉️ &nbsp;You can shoot me an email at mateus.henrique@acad.ufsm.br!\
+✉️ &nbsp;You can shoot me an email at mateus.henrique@acad.ufsm.br!
 
 ### 🛠 &nbsp;Tech Stack
 
