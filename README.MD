@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science in Federal University of Santa Maria - UFSM.\
-🌱 &nbsp;I'm learning web development and Java.\
+🌱 &nbsp;I'm learning web development and Java. As my main distro I use Linux Mint 21.\
 ✍️ &nbsp;In my free time, I like listen to music and play games.\
 ✉️ &nbsp;You can shoot me an email at mateus.henrique@acad.ufsm.br!
 
